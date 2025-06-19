@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compilar OCaml",
+      "type": "shell",
+      "command": "make",
+      "args": [],
+      "options": { "cwd": "${workspaceFolder}/ocaml" },
+      "group": "build"
+    },
+    {
+      "label": "Executar OCaml listar_items",
+      "type": "shell",
+      "command": "./main.exe listar_items",
+      "options": { "cwd": "${workspaceFolder}/ocaml" }
+    },
+    {
+      "label": "Compilar JavaFX",
+      "type": "shell",
+      "command": "javac --module-path $PATH_TO_FX --add-modules javafx.controls -d bin src/oficina/**/*.java",
+      "options": { "cwd": "${workspaceFolder}/java" },
+      "group": "build"
+    },
+    {
+      "label": "Executar JavaFX",
+      "type": "shell",
+      "command": "java --module-path $PATH_TO_FX --add-modules javafx.controls -cp bin oficina.ui.FXMain",
+      "options": { "cwd": "${workspaceFolder}/java" }
+    }
+  ]
+}

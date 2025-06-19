@@ -1,0 +1,359 @@
+Linha ignorada (desconto_marca): % Item em inventário
+Linha ignorada (desconto_marca): % ID, Nome, Marca, Tipo, Custo, Preço Venda, Quantidade
+Linha ignorada (desconto_marca): item(1, 'Oleo Helix 10W40', 'Shell', 'Oleos', 18.50, 25.99, 15).
+Linha ignorada (desconto_marca): item(2, 'Conjunto Velas N60', 'Bosh', 'Velas', 5.00, 7.99, 10).
+Linha ignorada (desconto_marca): item(3, 'Bateria A7 Silver Dynamic', 'Varta', 'Baterias', 150.00, 199.00, 5).
+Linha ignorada (desconto_marca): item(4, 'Anticongelante 5L 10 Rosa', 'IADA', 'Anticongelantes', 3.00, 4.49, 15).
+Linha ignorada (desconto_marca): item(5, 'Anticongelante 5L Energy Plus', 'Krafft', 'Anticongelantes', 12.00, 16.99, 15).
+Linha ignorada (desconto_marca): item(6, 'Lâmpada H4 60/55W', 'Philips', 'Lâmpadas', 6.50, 9.49, 18).
+Linha ignorada (desconto_marca): item(7, 'Correia Dentada', 'Gates', 'Correias', 25.00, 34.99, 10).
+Linha ignorada (desconto_marca): item(8, 'Oleo Edge 5W30', 'Castrol', 'Oleos', 35.00, 45.99, 15).
+Linha ignorada (desconto_marca): item(9, 'Kit de Embreagem Performance', 'Sachs', 'Kits Embreagem', 210.00, 269.99, 4).
+Linha ignorada (desconto_marca): item(10, 'Efficientgrip 205 55 R16', 'Goodyear', 'Pneus', 55.00, 72.59, 15).
+Linha ignorada (desconto_marca): item(11, 'Ultracompact 205 55 R17', 'Continental', 'Pneus', 60.00, 79.59, 8).
+Linha ignorada (desconto_marca): item(12, 'Anticongelante 5L 10 Verde', 'IADA', 'Anticongelantes', 3.00, 4.49, 9).
+Linha ignorada (desconto_marca): item(13, 'Conjunto Velas N35', 'Bosh', 'Velas', 3.50, 4.99, 20).
+Linha ignorada (desconto_marca): item(14, 'Lâmpada H7 55W', 'Osram', 'Lâmpadas', 5.00, 7.99, 20).
+Linha ignorada (desconto_marca): item(15, 'Filtro de Ar', 'MANN-FILTER', 'Filtros Ar', 10.00, 14.99, 18).
+Linha ignorada (desconto_marca): item(16, 'Pastilhas de Freio Dianteiras', 'TRW', 'Pastilhas Travoes', 25.00, 34.99, 12).
+Linha ignorada (desconto_marca): item(17, 'Discos de Freio Ventilados', 'Brembo', 'Discos Travoes', 60.00, 79.99, 8).
+Linha ignorada (desconto_marca): item(18, 'Correia Poly-V', 'Contitech', 'Correias', 18.50, 24.99, 12).
+Linha ignorada (desconto_marca): item(19, 'Kit de Embreagem', 'LUK', 'Kits Embreagem', 190.00, 249.99, 5).
+Linha ignorada (desconto_marca): item(20, 'Cabo de Acelerador', 'Valeo', 'Cabos Aceleracao', 14.00, 19.99, 7).
+Linha ignorada (desconto_marca): item(21, 'Filtro de Oleo', 'MANN-FILTER', 'Filtros Oleo', 7.00, 9.99, 25).
+Linha ignorada (desconto_marca): item(22, 'Pneu 195 65 R15', 'Michelin', 'Pneus', 65.00, 84.99, 10).
+Linha ignorada (desconto_marca): item(23, 'Cabo de Bateria 25mm', 'Bosch', 'Cabos Bateria', 22.00, 29.99, 8).
+Linha ignorada (desconto_marca): item(24, 'Correia Alternador', 'Dayco', 'Correias', 20.00, 27.99, 15).
+Linha ignorada (desconto_marca): item(25, 'Lâmpada LED T10', 'Bosch', 'Lâmpadas', 8.00, 11.99, 12).
+Linha ignorada (desconto_marca): item(26, 'Cabo de Embreagem', 'LUK', 'Cabos Aceleracao', 18.00, 24.99, 6).
+Linha ignorada (desconto_marca): item(27, 'Pastilhas de Freio Traseiras', 'Ferodo', 'Pastilhas Travoes', 20.00, 29.99, 10).
+Linha ignorada (desconto_marca): item(28, 'Discos de Freio Sólidos', 'Bosch', 'Discos Travoes', 55.00, 74.99, 7).
+Linha ignorada (desconto_marca): item(29, 'Filtro de Cabine', 'Bosch', 'Filtros Ar', 15.00, 20.99, 10).
+Linha ignorada (desconto_marca): item(30, 'Pneu 215 60 R16', 'Pirelli', 'Pneus', 70.00, 94.99, 7).
+Linha ignorada (desconto_marca): item(31, 'Bateria AGM Start-Stop', 'Bosch', 'Baterias', 180.00, 239.99, 6).
+Linha ignorada (desconto_marca): item(32, 'Conjunto Velas Iridium', 'NGK', 'Velas', 12.00, 15.99, 8).
+Linha ignorada (desconto_marca): item(33, 'Oleo Quartz 9000 5W30', 'Total', 'Oleos', 32.00, 42.99, 10).
+Linha ignorada (desconto_marca): 
+Linha ignorada (desconto_marca): 
+Linha ignorada (desconto_marca): % Serviços mecânicos
+Linha ignorada (desconto_marca): % ID, Nome, Categorias Utilizadas, Número de Mecânicos, Tempo Necessário (horas), Custo Base Serviço
+Linha ignorada (desconto_marca): servico(1, 'Troca de Oleo', ['Oleos', 'Filtros Oleo'], 1, 0.5, 0.00).
+Linha ignorada (desconto_marca): servico(2, 'Substituicao de Velas', ['Velas'], 1, 1.0, 0.00).
+Linha ignorada (desconto_marca): servico(3, 'Troca de Bateria', ['Baterias'], 1, 0.5, 0.00).
+Linha ignorada (desconto_marca): servico(4, 'Limpeza Sistema de Arrefecimento', ['Anticongelantes'], 1, 1.0, 0.00).
+Linha ignorada (desconto_marca): servico(5, 'Troca de Lampada', ['Lâmpadas'], 1, 0.25, 0.00).
+Linha ignorada (desconto_marca): servico(6, 'Substituicao de Correia', ['Correias'], 2, 3.0, 0.00).
+Linha ignorada (desconto_marca): servico(7, 'Troca de Pneu', ['Pneus'], 2, 1.5, 0.00).
+Linha ignorada (desconto_marca): servico(8, 'Substituicao de Filtro de Ar', ['Filtros Ar'], 1, 0.5, 0.00).
+Linha ignorada (desconto_marca): servico(9, 'Substituicao de Pastilhas de Travoes', ['Pastilhas Travoes'], 2, 2.0, 0.00).
+Linha ignorada (desconto_marca): servico(10, 'Troca de Discos de Travoes', ['Discos Travoes'], 2, 2.5, 0.00).
+Linha ignorada (desconto_marca): servico(11, 'Troca de Kit de Embreagem', ['Kits Embreagem'], 2, 4.0, 0.00).
+Linha ignorada (desconto_marca): servico(12, 'Troca de Cabos de Aceleracao', ['Cabos Aceleracao'], 1, 1.5, 0.00).
+Linha ignorada (desconto_marca): servico(13, 'Troca de Cabos de Bateria', ['Cabos Bateria'], 1, 1.0, 0.00).
+Linha ignorada (desconto_marca): servico(14, 'Serviço de Reboque', [], 1, 1.0, 120.00).
+Linha ignorada (desconto_marca): servico(15, 'Lavagem de Motor', [], 1, 1.0, 50.00).
+Linha ignorada (desconto_marca): servico(16, 'Revisao Geral', ['Oleos', 'Filtros Oleo', 'Velas', 'Pastilhas Travoes', 'Filtros Ar', 'Anticongelantes'], 2, 4.0, 0.00).
+Linha ignorada (desconto_marca): 
+Linha ignorada (desconto_marca): % Descontos por marca de item
+Linha ignorada (desconto_marca): % marca, desconto
+Linha ignorada (desconto_marca): desconto_marca('Michelin', 0.1).
+Linha ignorada (desconto_marca): desconto_marca('Bosch', 0.15).
+Linha ignorada (desconto_marca): desconto_marca('Philips', 0.3).
+Linha ignorada (desconto_marca): 
+Linha ignorada (desconto_marca): % Descontos mão de obra
+Linha ignorada (desconto_marca): % tempo (horas), desconto
+Linha ignorada (desconto_marca): desconto_mao_obra(<0.25, 0.05).
+Linha ignorada (desconto_marca): desconto_mao_obra(>4, 0.15).
+Linha ignorada (desconto_marca): 
+Linha ignorada (desconto_marca): % mecânicos
+Linha ignorada (desconto_marca): % ID, Nome, Custo Hora
+Linha ignorada (desconto_marca): mecanico(1, "Ganacio", 10.00).
+Linha ignorada (desconto_marca): mecanico(1, "Severo", 8.00).
+Linha ignorada (desconto_mao_obra): % Item em inventário
+Linha ignorada (desconto_mao_obra): % ID, Nome, Marca, Tipo, Custo, Preço Venda, Quantidade
+Linha ignorada (desconto_mao_obra): item(1, 'Oleo Helix 10W40', 'Shell', 'Oleos', 18.50, 25.99, 15).
+Linha ignorada (desconto_mao_obra): item(2, 'Conjunto Velas N60', 'Bosh', 'Velas', 5.00, 7.99, 10).
+Linha ignorada (desconto_mao_obra): item(3, 'Bateria A7 Silver Dynamic', 'Varta', 'Baterias', 150.00, 199.00, 5).
+Linha ignorada (desconto_mao_obra): item(4, 'Anticongelante 5L 10 Rosa', 'IADA', 'Anticongelantes', 3.00, 4.49, 15).
+Linha ignorada (desconto_mao_obra): item(5, 'Anticongelante 5L Energy Plus', 'Krafft', 'Anticongelantes', 12.00, 16.99, 15).
+Linha ignorada (desconto_mao_obra): item(6, 'Lâmpada H4 60/55W', 'Philips', 'Lâmpadas', 6.50, 9.49, 18).
+Linha ignorada (desconto_mao_obra): item(7, 'Correia Dentada', 'Gates', 'Correias', 25.00, 34.99, 10).
+Linha ignorada (desconto_mao_obra): item(8, 'Oleo Edge 5W30', 'Castrol', 'Oleos', 35.00, 45.99, 15).
+Linha ignorada (desconto_mao_obra): item(9, 'Kit de Embreagem Performance', 'Sachs', 'Kits Embreagem', 210.00, 269.99, 4).
+Linha ignorada (desconto_mao_obra): item(10, 'Efficientgrip 205 55 R16', 'Goodyear', 'Pneus', 55.00, 72.59, 15).
+Linha ignorada (desconto_mao_obra): item(11, 'Ultracompact 205 55 R17', 'Continental', 'Pneus', 60.00, 79.59, 8).
+Linha ignorada (desconto_mao_obra): item(12, 'Anticongelante 5L 10 Verde', 'IADA', 'Anticongelantes', 3.00, 4.49, 9).
+Linha ignorada (desconto_mao_obra): item(13, 'Conjunto Velas N35', 'Bosh', 'Velas', 3.50, 4.99, 20).
+Linha ignorada (desconto_mao_obra): item(14, 'Lâmpada H7 55W', 'Osram', 'Lâmpadas', 5.00, 7.99, 20).
+Linha ignorada (desconto_mao_obra): item(15, 'Filtro de Ar', 'MANN-FILTER', 'Filtros Ar', 10.00, 14.99, 18).
+Linha ignorada (desconto_mao_obra): item(16, 'Pastilhas de Freio Dianteiras', 'TRW', 'Pastilhas Travoes', 25.00, 34.99, 12).
+Linha ignorada (desconto_mao_obra): item(17, 'Discos de Freio Ventilados', 'Brembo', 'Discos Travoes', 60.00, 79.99, 8).
+Linha ignorada (desconto_mao_obra): item(18, 'Correia Poly-V', 'Contitech', 'Correias', 18.50, 24.99, 12).
+Linha ignorada (desconto_mao_obra): item(19, 'Kit de Embreagem', 'LUK', 'Kits Embreagem', 190.00, 249.99, 5).
+Linha ignorada (desconto_mao_obra): item(20, 'Cabo de Acelerador', 'Valeo', 'Cabos Aceleracao', 14.00, 19.99, 7).
+Linha ignorada (desconto_mao_obra): item(21, 'Filtro de Oleo', 'MANN-FILTER', 'Filtros Oleo', 7.00, 9.99, 25).
+Linha ignorada (desconto_mao_obra): item(22, 'Pneu 195 65 R15', 'Michelin', 'Pneus', 65.00, 84.99, 10).
+Linha ignorada (desconto_mao_obra): item(23, 'Cabo de Bateria 25mm', 'Bosch', 'Cabos Bateria', 22.00, 29.99, 8).
+Linha ignorada (desconto_mao_obra): item(24, 'Correia Alternador', 'Dayco', 'Correias', 20.00, 27.99, 15).
+Linha ignorada (desconto_mao_obra): item(25, 'Lâmpada LED T10', 'Bosch', 'Lâmpadas', 8.00, 11.99, 12).
+Linha ignorada (desconto_mao_obra): item(26, 'Cabo de Embreagem', 'LUK', 'Cabos Aceleracao', 18.00, 24.99, 6).
+Linha ignorada (desconto_mao_obra): item(27, 'Pastilhas de Freio Traseiras', 'Ferodo', 'Pastilhas Travoes', 20.00, 29.99, 10).
+Linha ignorada (desconto_mao_obra): item(28, 'Discos de Freio Sólidos', 'Bosch', 'Discos Travoes', 55.00, 74.99, 7).
+Linha ignorada (desconto_mao_obra): item(29, 'Filtro de Cabine', 'Bosch', 'Filtros Ar', 15.00, 20.99, 10).
+Linha ignorada (desconto_mao_obra): item(30, 'Pneu 215 60 R16', 'Pirelli', 'Pneus', 70.00, 94.99, 7).
+Linha ignorada (desconto_mao_obra): item(31, 'Bateria AGM Start-Stop', 'Bosch', 'Baterias', 180.00, 239.99, 6).
+Linha ignorada (desconto_mao_obra): item(32, 'Conjunto Velas Iridium', 'NGK', 'Velas', 12.00, 15.99, 8).
+Linha ignorada (desconto_mao_obra): item(33, 'Oleo Quartz 9000 5W30', 'Total', 'Oleos', 32.00, 42.99, 10).
+Linha ignorada (desconto_mao_obra): 
+Linha ignorada (desconto_mao_obra): 
+Linha ignorada (desconto_mao_obra): % Serviços mecânicos
+Linha ignorada (desconto_mao_obra): % ID, Nome, Categorias Utilizadas, Número de Mecânicos, Tempo Necessário (horas), Custo Base Serviço
+Linha ignorada (desconto_mao_obra): servico(1, 'Troca de Oleo', ['Oleos', 'Filtros Oleo'], 1, 0.5, 0.00).
+Linha ignorada (desconto_mao_obra): servico(2, 'Substituicao de Velas', ['Velas'], 1, 1.0, 0.00).
+Linha ignorada (desconto_mao_obra): servico(3, 'Troca de Bateria', ['Baterias'], 1, 0.5, 0.00).
+Linha ignorada (desconto_mao_obra): servico(4, 'Limpeza Sistema de Arrefecimento', ['Anticongelantes'], 1, 1.0, 0.00).
+Linha ignorada (desconto_mao_obra): servico(5, 'Troca de Lampada', ['Lâmpadas'], 1, 0.25, 0.00).
+Linha ignorada (desconto_mao_obra): servico(6, 'Substituicao de Correia', ['Correias'], 2, 3.0, 0.00).
+Linha ignorada (desconto_mao_obra): servico(7, 'Troca de Pneu', ['Pneus'], 2, 1.5, 0.00).
+Linha ignorada (desconto_mao_obra): servico(8, 'Substituicao de Filtro de Ar', ['Filtros Ar'], 1, 0.5, 0.00).
+Linha ignorada (desconto_mao_obra): servico(9, 'Substituicao de Pastilhas de Travoes', ['Pastilhas Travoes'], 2, 2.0, 0.00).
+Linha ignorada (desconto_mao_obra): servico(10, 'Troca de Discos de Travoes', ['Discos Travoes'], 2, 2.5, 0.00).
+Linha ignorada (desconto_mao_obra): servico(11, 'Troca de Kit de Embreagem', ['Kits Embreagem'], 2, 4.0, 0.00).
+Linha ignorada (desconto_mao_obra): servico(12, 'Troca de Cabos de Aceleracao', ['Cabos Aceleracao'], 1, 1.5, 0.00).
+Linha ignorada (desconto_mao_obra): servico(13, 'Troca de Cabos de Bateria', ['Cabos Bateria'], 1, 1.0, 0.00).
+Linha ignorada (desconto_mao_obra): servico(14, 'Serviço de Reboque', [], 1, 1.0, 120.00).
+Linha ignorada (desconto_mao_obra): servico(15, 'Lavagem de Motor', [], 1, 1.0, 50.00).
+Linha ignorada (desconto_mao_obra): servico(16, 'Revisao Geral', ['Oleos', 'Filtros Oleo', 'Velas', 'Pastilhas Travoes', 'Filtros Ar', 'Anticongelantes'], 2, 4.0, 0.00).
+Linha ignorada (desconto_mao_obra): 
+Linha ignorada (desconto_mao_obra): % Descontos por marca de item
+Linha ignorada (desconto_mao_obra): % marca, desconto
+Linha ignorada (desconto_mao_obra): desconto_marca('Michelin', 0.1).
+Linha ignorada (desconto_mao_obra): desconto_marca('Bosch', 0.15).
+Linha ignorada (desconto_mao_obra): desconto_marca('Philips', 0.3).
+Linha ignorada (desconto_mao_obra): 
+Linha ignorada (desconto_mao_obra): % Descontos mão de obra
+Linha ignorada (desconto_mao_obra): % tempo (horas), desconto
+Linha ignorada (desconto_mao_obra): desconto_mao_obra(<0.25, 0.05).
+Linha ignorada (desconto_mao_obra): desconto_mao_obra(>4, 0.15).
+Linha ignorada (desconto_mao_obra): 
+Linha ignorada (desconto_mao_obra): % mecânicos
+Linha ignorada (desconto_mao_obra): % ID, Nome, Custo Hora
+Linha ignorada (desconto_mao_obra): mecanico(1, "Ganacio", 10.00).
+Linha ignorada (desconto_mao_obra): mecanico(1, "Severo", 8.00).
+Argumentos recebidos: ./main.exe orcamento_final 1,16
+Linha ignorada (servico): % Item em inventário
+Linha ignorada (servico): % ID, Nome, Marca, Tipo, Custo, Preço Venda, Quantidade
+Linha ignorada (servico): item(1, 'Oleo Helix 10W40', 'Shell', 'Oleos', 18.50, 25.99, 15).
+Linha ignorada (servico): item(2, 'Conjunto Velas N60', 'Bosh', 'Velas', 5.00, 7.99, 10).
+Linha ignorada (servico): item(3, 'Bateria A7 Silver Dynamic', 'Varta', 'Baterias', 150.00, 199.00, 5).
+Linha ignorada (servico): item(4, 'Anticongelante 5L 10 Rosa', 'IADA', 'Anticongelantes', 3.00, 4.49, 15).
+Linha ignorada (servico): item(5, 'Anticongelante 5L Energy Plus', 'Krafft', 'Anticongelantes', 12.00, 16.99, 15).
+Linha ignorada (servico): item(6, 'Lâmpada H4 60/55W', 'Philips', 'Lâmpadas', 6.50, 9.49, 18).
+Linha ignorada (servico): item(7, 'Correia Dentada', 'Gates', 'Correias', 25.00, 34.99, 10).
+Linha ignorada (servico): item(8, 'Oleo Edge 5W30', 'Castrol', 'Oleos', 35.00, 45.99, 15).
+Linha ignorada (servico): item(9, 'Kit de Embreagem Performance', 'Sachs', 'Kits Embreagem', 210.00, 269.99, 4).
+Linha ignorada (servico): item(10, 'Efficientgrip 205 55 R16', 'Goodyear', 'Pneus', 55.00, 72.59, 15).
+Linha ignorada (servico): item(11, 'Ultracompact 205 55 R17', 'Continental', 'Pneus', 60.00, 79.59, 8).
+Linha ignorada (servico): item(12, 'Anticongelante 5L 10 Verde', 'IADA', 'Anticongelantes', 3.00, 4.49, 9).
+Linha ignorada (servico): item(13, 'Conjunto Velas N35', 'Bosh', 'Velas', 3.50, 4.99, 20).
+Linha ignorada (servico): item(14, 'Lâmpada H7 55W', 'Osram', 'Lâmpadas', 5.00, 7.99, 20).
+Linha ignorada (servico): item(15, 'Filtro de Ar', 'MANN-FILTER', 'Filtros Ar', 10.00, 14.99, 18).
+Linha ignorada (servico): item(16, 'Pastilhas de Freio Dianteiras', 'TRW', 'Pastilhas Travoes', 25.00, 34.99, 12).
+Linha ignorada (servico): item(17, 'Discos de Freio Ventilados', 'Brembo', 'Discos Travoes', 60.00, 79.99, 8).
+Linha ignorada (servico): item(18, 'Correia Poly-V', 'Contitech', 'Correias', 18.50, 24.99, 12).
+Linha ignorada (servico): item(19, 'Kit de Embreagem', 'LUK', 'Kits Embreagem', 190.00, 249.99, 5).
+Linha ignorada (servico): item(20, 'Cabo de Acelerador', 'Valeo', 'Cabos Aceleracao', 14.00, 19.99, 7).
+Linha ignorada (servico): item(21, 'Filtro de Oleo', 'MANN-FILTER', 'Filtros Oleo', 7.00, 9.99, 25).
+Linha ignorada (servico): item(22, 'Pneu 195 65 R15', 'Michelin', 'Pneus', 65.00, 84.99, 10).
+Linha ignorada (servico): item(23, 'Cabo de Bateria 25mm', 'Bosch', 'Cabos Bateria', 22.00, 29.99, 8).
+Linha ignorada (servico): item(24, 'Correia Alternador', 'Dayco', 'Correias', 20.00, 27.99, 15).
+Linha ignorada (servico): item(25, 'Lâmpada LED T10', 'Bosch', 'Lâmpadas', 8.00, 11.99, 12).
+Linha ignorada (servico): item(26, 'Cabo de Embreagem', 'LUK', 'Cabos Aceleracao', 18.00, 24.99, 6).
+Linha ignorada (servico): item(27, 'Pastilhas de Freio Traseiras', 'Ferodo', 'Pastilhas Travoes', 20.00, 29.99, 10).
+Linha ignorada (servico): item(28, 'Discos de Freio Sólidos', 'Bosch', 'Discos Travoes', 55.00, 74.99, 7).
+Linha ignorada (servico): item(29, 'Filtro de Cabine', 'Bosch', 'Filtros Ar', 15.00, 20.99, 10).
+Linha ignorada (servico): item(30, 'Pneu 215 60 R16', 'Pirelli', 'Pneus', 70.00, 94.99, 7).
+Linha ignorada (servico): item(31, 'Bateria AGM Start-Stop', 'Bosch', 'Baterias', 180.00, 239.99, 6).
+Linha ignorada (servico): item(32, 'Conjunto Velas Iridium', 'NGK', 'Velas', 12.00, 15.99, 8).
+Linha ignorada (servico): item(33, 'Oleo Quartz 9000 5W30', 'Total', 'Oleos', 32.00, 42.99, 10).
+Linha ignorada (servico): 
+Linha ignorada (servico): 
+Linha ignorada (servico): % Serviços mecânicos
+Linha ignorada (servico): % ID, Nome, Categorias Utilizadas, Número de Mecânicos, Tempo Necessário (horas), Custo Base Serviço
+Linha ignorada (servico): servico(1, 'Troca de Oleo', ['Oleos', 'Filtros Oleo'], 1, 0.5, 0.00).
+Linha ignorada (servico): servico(2, 'Substituicao de Velas', ['Velas'], 1, 1.0, 0.00).
+Linha ignorada (servico): servico(3, 'Troca de Bateria', ['Baterias'], 1, 0.5, 0.00).
+Linha ignorada (servico): servico(4, 'Limpeza Sistema de Arrefecimento', ['Anticongelantes'], 1, 1.0, 0.00).
+Linha ignorada (servico): servico(5, 'Troca de Lampada', ['Lâmpadas'], 1, 0.25, 0.00).
+Linha ignorada (servico): servico(6, 'Substituicao de Correia', ['Correias'], 2, 3.0, 0.00).
+Linha ignorada (servico): servico(7, 'Troca de Pneu', ['Pneus'], 2, 1.5, 0.00).
+Linha ignorada (servico): servico(8, 'Substituicao de Filtro de Ar', ['Filtros Ar'], 1, 0.5, 0.00).
+Linha ignorada (servico): servico(9, 'Substituicao de Pastilhas de Travoes', ['Pastilhas Travoes'], 2, 2.0, 0.00).
+Linha ignorada (servico): servico(10, 'Troca de Discos de Travoes', ['Discos Travoes'], 2, 2.5, 0.00).
+Linha ignorada (servico): servico(11, 'Troca de Kit de Embreagem', ['Kits Embreagem'], 2, 4.0, 0.00).
+Linha ignorada (servico): servico(12, 'Troca de Cabos de Aceleracao', ['Cabos Aceleracao'], 1, 1.5, 0.00).
+Linha ignorada (servico): servico(13, 'Troca de Cabos de Bateria', ['Cabos Bateria'], 1, 1.0, 0.00).
+Linha ignorada (servico): servico(14, 'Serviço de Reboque', [], 1, 1.0, 120.00).
+Linha ignorada (servico): servico(15, 'Lavagem de Motor', [], 1, 1.0, 50.00).
+Linha ignorada (servico): servico(16, 'Revisao Geral', ['Oleos', 'Filtros Oleo', 'Velas', 'Pastilhas Travoes', 'Filtros Ar', 'Anticongelantes'], 2, 4.0, 0.00).
+Linha ignorada (servico): 
+Linha ignorada (servico): % Descontos por marca de item
+Linha ignorada (servico): % marca, desconto
+Linha ignorada (servico): desconto_marca('Michelin', 0.1).
+Linha ignorada (servico): desconto_marca('Bosch', 0.15).
+Linha ignorada (servico): desconto_marca('Philips', 0.3).
+Linha ignorada (servico): 
+Linha ignorada (servico): % Descontos mão de obra
+Linha ignorada (servico): % tempo (horas), desconto
+Linha ignorada (servico): desconto_mao_obra(<0.25, 0.05).
+Linha ignorada (servico): desconto_mao_obra(>4, 0.15).
+Linha ignorada (servico): 
+Linha ignorada (servico): % mecânicos
+Linha ignorada (servico): % ID, Nome, Custo Hora
+Linha ignorada (servico): mecanico(1, "Ganacio", 10.00).
+Linha ignorada (servico): mecanico(1, "Severo", 8.00).
+Linha ignorada (item): % Item em inventário
+Linha ignorada (item): % ID, Nome, Marca, Tipo, Custo, Preço Venda, Quantidade
+Linha ignorada (item): item(1, 'Oleo Helix 10W40', 'Shell', 'Oleos', 18.50, 25.99, 15).
+Linha ignorada (item): item(2, 'Conjunto Velas N60', 'Bosh', 'Velas', 5.00, 7.99, 10).
+Linha ignorada (item): item(3, 'Bateria A7 Silver Dynamic', 'Varta', 'Baterias', 150.00, 199.00, 5).
+Linha ignorada (item): item(4, 'Anticongelante 5L 10 Rosa', 'IADA', 'Anticongelantes', 3.00, 4.49, 15).
+Linha ignorada (item): item(5, 'Anticongelante 5L Energy Plus', 'Krafft', 'Anticongelantes', 12.00, 16.99, 15).
+Linha ignorada (item): item(6, 'Lâmpada H4 60/55W', 'Philips', 'Lâmpadas', 6.50, 9.49, 18).
+Linha ignorada (item): item(7, 'Correia Dentada', 'Gates', 'Correias', 25.00, 34.99, 10).
+Linha ignorada (item): item(8, 'Oleo Edge 5W30', 'Castrol', 'Oleos', 35.00, 45.99, 15).
+Linha ignorada (item): item(9, 'Kit de Embreagem Performance', 'Sachs', 'Kits Embreagem', 210.00, 269.99, 4).
+Linha ignorada (item): item(10, 'Efficientgrip 205 55 R16', 'Goodyear', 'Pneus', 55.00, 72.59, 15).
+Linha ignorada (item): item(11, 'Ultracompact 205 55 R17', 'Continental', 'Pneus', 60.00, 79.59, 8).
+Linha ignorada (item): item(12, 'Anticongelante 5L 10 Verde', 'IADA', 'Anticongelantes', 3.00, 4.49, 9).
+Linha ignorada (item): item(13, 'Conjunto Velas N35', 'Bosh', 'Velas', 3.50, 4.99, 20).
+Linha ignorada (item): item(14, 'Lâmpada H7 55W', 'Osram', 'Lâmpadas', 5.00, 7.99, 20).
+Linha ignorada (item): item(15, 'Filtro de Ar', 'MANN-FILTER', 'Filtros Ar', 10.00, 14.99, 18).
+Linha ignorada (item): item(16, 'Pastilhas de Freio Dianteiras', 'TRW', 'Pastilhas Travoes', 25.00, 34.99, 12).
+Linha ignorada (item): item(17, 'Discos de Freio Ventilados', 'Brembo', 'Discos Travoes', 60.00, 79.99, 8).
+Linha ignorada (item): item(18, 'Correia Poly-V', 'Contitech', 'Correias', 18.50, 24.99, 12).
+Linha ignorada (item): item(19, 'Kit de Embreagem', 'LUK', 'Kits Embreagem', 190.00, 249.99, 5).
+Linha ignorada (item): item(20, 'Cabo de Acelerador', 'Valeo', 'Cabos Aceleracao', 14.00, 19.99, 7).
+Linha ignorada (item): item(21, 'Filtro de Oleo', 'MANN-FILTER', 'Filtros Oleo', 7.00, 9.99, 25).
+Linha ignorada (item): item(22, 'Pneu 195 65 R15', 'Michelin', 'Pneus', 65.00, 84.99, 10).
+Linha ignorada (item): item(23, 'Cabo de Bateria 25mm', 'Bosch', 'Cabos Bateria', 22.00, 29.99, 8).
+Linha ignorada (item): item(24, 'Correia Alternador', 'Dayco', 'Correias', 20.00, 27.99, 15).
+Linha ignorada (item): item(25, 'Lâmpada LED T10', 'Bosch', 'Lâmpadas', 8.00, 11.99, 12).
+Linha ignorada (item): item(26, 'Cabo de Embreagem', 'LUK', 'Cabos Aceleracao', 18.00, 24.99, 6).
+Linha ignorada (item): item(27, 'Pastilhas de Freio Traseiras', 'Ferodo', 'Pastilhas Travoes', 20.00, 29.99, 10).
+Linha ignorada (item): item(28, 'Discos de Freio Sólidos', 'Bosch', 'Discos Travoes', 55.00, 74.99, 7).
+Linha ignorada (item): item(29, 'Filtro de Cabine', 'Bosch', 'Filtros Ar', 15.00, 20.99, 10).
+Linha ignorada (item): item(30, 'Pneu 215 60 R16', 'Pirelli', 'Pneus', 70.00, 94.99, 7).
+Linha ignorada (item): item(31, 'Bateria AGM Start-Stop', 'Bosch', 'Baterias', 180.00, 239.99, 6).
+Linha ignorada (item): item(32, 'Conjunto Velas Iridium', 'NGK', 'Velas', 12.00, 15.99, 8).
+Linha ignorada (item): item(33, 'Oleo Quartz 9000 5W30', 'Total', 'Oleos', 32.00, 42.99, 10).
+Linha ignorada (item): 
+Linha ignorada (item): 
+Linha ignorada (item): % Serviços mecânicos
+Linha ignorada (item): % ID, Nome, Categorias Utilizadas, Número de Mecânicos, Tempo Necessário (horas), Custo Base Serviço
+Linha ignorada (item): servico(1, 'Troca de Oleo', ['Oleos', 'Filtros Oleo'], 1, 0.5, 0.00).
+Linha ignorada (item): servico(2, 'Substituicao de Velas', ['Velas'], 1, 1.0, 0.00).
+Linha ignorada (item): servico(3, 'Troca de Bateria', ['Baterias'], 1, 0.5, 0.00).
+Linha ignorada (item): servico(4, 'Limpeza Sistema de Arrefecimento', ['Anticongelantes'], 1, 1.0, 0.00).
+Linha ignorada (item): servico(5, 'Troca de Lampada', ['Lâmpadas'], 1, 0.25, 0.00).
+Linha ignorada (item): servico(6, 'Substituicao de Correia', ['Correias'], 2, 3.0, 0.00).
+Linha ignorada (item): servico(7, 'Troca de Pneu', ['Pneus'], 2, 1.5, 0.00).
+Linha ignorada (item): servico(8, 'Substituicao de Filtro de Ar', ['Filtros Ar'], 1, 0.5, 0.00).
+Linha ignorada (item): servico(9, 'Substituicao de Pastilhas de Travoes', ['Pastilhas Travoes'], 2, 2.0, 0.00).
+Linha ignorada (item): servico(10, 'Troca de Discos de Travoes', ['Discos Travoes'], 2, 2.5, 0.00).
+Linha ignorada (item): servico(11, 'Troca de Kit de Embreagem', ['Kits Embreagem'], 2, 4.0, 0.00).
+Linha ignorada (item): servico(12, 'Troca de Cabos de Aceleracao', ['Cabos Aceleracao'], 1, 1.5, 0.00).
+Linha ignorada (item): servico(13, 'Troca de Cabos de Bateria', ['Cabos Bateria'], 1, 1.0, 0.00).
+Linha ignorada (item): servico(14, 'Serviço de Reboque', [], 1, 1.0, 120.00).
+Linha ignorada (item): servico(15, 'Lavagem de Motor', [], 1, 1.0, 50.00).
+Linha ignorada (item): servico(16, 'Revisao Geral', ['Oleos', 'Filtros Oleo', 'Velas', 'Pastilhas Travoes', 'Filtros Ar', 'Anticongelantes'], 2, 4.0, 0.00).
+Linha ignorada (item): 
+Linha ignorada (item): % Descontos por marca de item
+Linha ignorada (item): % marca, desconto
+Linha ignorada (item): desconto_marca('Michelin', 0.1).
+Linha ignorada (item): desconto_marca('Bosch', 0.15).
+Linha ignorada (item): desconto_marca('Philips', 0.3).
+Linha ignorada (item): 
+Linha ignorada (item): % Descontos mão de obra
+Linha ignorada (item): % tempo (horas), desconto
+Linha ignorada (item): desconto_mao_obra(<0.25, 0.05).
+Linha ignorada (item): desconto_mao_obra(>4, 0.15).
+Linha ignorada (item): 
+Linha ignorada (item): % mecânicos
+Linha ignorada (item): % ID, Nome, Custo Hora
+Linha ignorada (item): mecanico(1, "Ganacio", 10.00).
+Linha ignorada (item): mecanico(1, "Severo", 8.00).
+Linha ignorada (mecanico): % Item em inventário
+Linha ignorada (mecanico): % ID, Nome, Marca, Tipo, Custo, Preço Venda, Quantidade
+Linha ignorada (mecanico): item(1, 'Oleo Helix 10W40', 'Shell', 'Oleos', 18.50, 25.99, 15).
+Linha ignorada (mecanico): item(2, 'Conjunto Velas N60', 'Bosh', 'Velas', 5.00, 7.99, 10).
+Linha ignorada (mecanico): item(3, 'Bateria A7 Silver Dynamic', 'Varta', 'Baterias', 150.00, 199.00, 5).
+Linha ignorada (mecanico): item(4, 'Anticongelante 5L 10 Rosa', 'IADA', 'Anticongelantes', 3.00, 4.49, 15).
+Linha ignorada (mecanico): item(5, 'Anticongelante 5L Energy Plus', 'Krafft', 'Anticongelantes', 12.00, 16.99, 15).
+Linha ignorada (mecanico): item(6, 'Lâmpada H4 60/55W', 'Philips', 'Lâmpadas', 6.50, 9.49, 18).
+Linha ignorada (mecanico): item(7, 'Correia Dentada', 'Gates', 'Correias', 25.00, 34.99, 10).
+Linha ignorada (mecanico): item(8, 'Oleo Edge 5W30', 'Castrol', 'Oleos', 35.00, 45.99, 15).
+Linha ignorada (mecanico): item(9, 'Kit de Embreagem Performance', 'Sachs', 'Kits Embreagem', 210.00, 269.99, 4).
+Linha ignorada (mecanico): item(10, 'Efficientgrip 205 55 R16', 'Goodyear', 'Pneus', 55.00, 72.59, 15).
+Linha ignorada (mecanico): item(11, 'Ultracompact 205 55 R17', 'Continental', 'Pneus', 60.00, 79.59, 8).
+Linha ignorada (mecanico): item(12, 'Anticongelante 5L 10 Verde', 'IADA', 'Anticongelantes', 3.00, 4.49, 9).
+Linha ignorada (mecanico): item(13, 'Conjunto Velas N35', 'Bosh', 'Velas', 3.50, 4.99, 20).
+Linha ignorada (mecanico): item(14, 'Lâmpada H7 55W', 'Osram', 'Lâmpadas', 5.00, 7.99, 20).
+Linha ignorada (mecanico): item(15, 'Filtro de Ar', 'MANN-FILTER', 'Filtros Ar', 10.00, 14.99, 18).
+Linha ignorada (mecanico): item(16, 'Pastilhas de Freio Dianteiras', 'TRW', 'Pastilhas Travoes', 25.00, 34.99, 12).
+Linha ignorada (mecanico): item(17, 'Discos de Freio Ventilados', 'Brembo', 'Discos Travoes', 60.00, 79.99, 8).
+Linha ignorada (mecanico): item(18, 'Correia Poly-V', 'Contitech', 'Correias', 18.50, 24.99, 12).
+Linha ignorada (mecanico): item(19, 'Kit de Embreagem', 'LUK', 'Kits Embreagem', 190.00, 249.99, 5).
+Linha ignorada (mecanico): item(20, 'Cabo de Acelerador', 'Valeo', 'Cabos Aceleracao', 14.00, 19.99, 7).
+Linha ignorada (mecanico): item(21, 'Filtro de Oleo', 'MANN-FILTER', 'Filtros Oleo', 7.00, 9.99, 25).
+Linha ignorada (mecanico): item(22, 'Pneu 195 65 R15', 'Michelin', 'Pneus', 65.00, 84.99, 10).
+Linha ignorada (mecanico): item(23, 'Cabo de Bateria 25mm', 'Bosch', 'Cabos Bateria', 22.00, 29.99, 8).
+Linha ignorada (mecanico): item(24, 'Correia Alternador', 'Dayco', 'Correias', 20.00, 27.99, 15).
+Linha ignorada (mecanico): item(25, 'Lâmpada LED T10', 'Bosch', 'Lâmpadas', 8.00, 11.99, 12).
+Linha ignorada (mecanico): item(26, 'Cabo de Embreagem', 'LUK', 'Cabos Aceleracao', 18.00, 24.99, 6).
+Linha ignorada (mecanico): item(27, 'Pastilhas de Freio Traseiras', 'Ferodo', 'Pastilhas Travoes', 20.00, 29.99, 10).
+Linha ignorada (mecanico): item(28, 'Discos de Freio Sólidos', 'Bosch', 'Discos Travoes', 55.00, 74.99, 7).
+Linha ignorada (mecanico): item(29, 'Filtro de Cabine', 'Bosch', 'Filtros Ar', 15.00, 20.99, 10).
+Linha ignorada (mecanico): item(30, 'Pneu 215 60 R16', 'Pirelli', 'Pneus', 70.00, 94.99, 7).
+Linha ignorada (mecanico): item(31, 'Bateria AGM Start-Stop', 'Bosch', 'Baterias', 180.00, 239.99, 6).
+Linha ignorada (mecanico): item(32, 'Conjunto Velas Iridium', 'NGK', 'Velas', 12.00, 15.99, 8).
+Linha ignorada (mecanico): item(33, 'Oleo Quartz 9000 5W30', 'Total', 'Oleos', 32.00, 42.99, 10).
+Linha ignorada (mecanico): 
+Linha ignorada (mecanico): 
+Linha ignorada (mecanico): % Serviços mecânicos
+Linha ignorada (mecanico): % ID, Nome, Categorias Utilizadas, Número de Mecânicos, Tempo Necessário (horas), Custo Base Serviço
+Linha ignorada (mecanico): servico(1, 'Troca de Oleo', ['Oleos', 'Filtros Oleo'], 1, 0.5, 0.00).
+Linha ignorada (mecanico): servico(2, 'Substituicao de Velas', ['Velas'], 1, 1.0, 0.00).
+Linha ignorada (mecanico): servico(3, 'Troca de Bateria', ['Baterias'], 1, 0.5, 0.00).
+Linha ignorada (mecanico): servico(4, 'Limpeza Sistema de Arrefecimento', ['Anticongelantes'], 1, 1.0, 0.00).
+Linha ignorada (mecanico): servico(5, 'Troca de Lampada', ['Lâmpadas'], 1, 0.25, 0.00).
+Linha ignorada (mecanico): servico(6, 'Substituicao de Correia', ['Correias'], 2, 3.0, 0.00).
+Linha ignorada (mecanico): servico(7, 'Troca de Pneu', ['Pneus'], 2, 1.5, 0.00).
+Linha ignorada (mecanico): servico(8, 'Substituicao de Filtro de Ar', ['Filtros Ar'], 1, 0.5, 0.00).
+Linha ignorada (mecanico): servico(9, 'Substituicao de Pastilhas de Travoes', ['Pastilhas Travoes'], 2, 2.0, 0.00).
+Linha ignorada (mecanico): servico(10, 'Troca de Discos de Travoes', ['Discos Travoes'], 2, 2.5, 0.00).
+Linha ignorada (mecanico): servico(11, 'Troca de Kit de Embreagem', ['Kits Embreagem'], 2, 4.0, 0.00).
+Linha ignorada (mecanico): servico(12, 'Troca de Cabos de Aceleracao', ['Cabos Aceleracao'], 1, 1.5, 0.00).
+Linha ignorada (mecanico): servico(13, 'Troca de Cabos de Bateria', ['Cabos Bateria'], 1, 1.0, 0.00).
+Linha ignorada (mecanico): servico(14, 'Serviço de Reboque', [], 1, 1.0, 120.00).
+Linha ignorada (mecanico): servico(15, 'Lavagem de Motor', [], 1, 1.0, 50.00).
+Linha ignorada (mecanico): servico(16, 'Revisao Geral', ['Oleos', 'Filtros Oleo', 'Velas', 'Pastilhas Travoes', 'Filtros Ar', 'Anticongelantes'], 2, 4.0, 0.00).
+Linha ignorada (mecanico): 
+Linha ignorada (mecanico): % Descontos por marca de item
+Linha ignorada (mecanico): % marca, desconto
+Linha ignorada (mecanico): desconto_marca('Michelin', 0.1).
+Linha ignorada (mecanico): desconto_marca('Bosch', 0.15).
+Linha ignorada (mecanico): desconto_marca('Philips', 0.3).
+Linha ignorada (mecanico): 
+Linha ignorada (mecanico): % Descontos mão de obra
+Linha ignorada (mecanico): % tempo (horas), desconto
+Linha ignorada (mecanico): desconto_mao_obra(<0.25, 0.05).
+Linha ignorada (mecanico): desconto_mao_obra(>4, 0.15).
+Linha ignorada (mecanico): 
+Linha ignorada (mecanico): % mecânicos
+Linha ignorada (mecanico): % ID, Nome, Custo Hora
+Linha ignorada (mecanico): mecanico(1, "Ganacio", 10.00).
+Linha ignorada (mecanico): mecanico(1, "Severo", 8.00).
+Número de serviços: 0, itens: 0, mecânicos: 0
+Serviço ID 1 não encontrado
+Serviço ID 16 não encontrado
