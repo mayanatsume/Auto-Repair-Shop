@@ -1,5 +1,4 @@
-Oficina do Ganâncio — README & Relatório
-
+Auto repair shop - JavaFx - Java - Ocalm
 📋 Visão Geral do projeto utiliza duas camadas principais:
 
 1. Back-end em OCaml para lógica de negócio, processamento de dados e geração de orçamentos:
